@@ -108,10 +108,30 @@ The project includes:
 - Business Insight Generation
 - Python Programming
 
-![Correlation Heatmap of Key Tourism and Economic Indicators
-Chart Type: Correlation Heatmap
- Tool Used: Seaborn
+##  Project Preview
+# Correlation Heatmap of Key Tourism and Economic Indicators
+-Chart Type: Correlation Heatmap
+ -Tool Used: Seaborn
+![
 ](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20212228.png)
+
+# Top 10 Country Groups by Tourist Arrivals (1999)
+-Chart Type: Horizontal Bar Chart
+-Tool Used: Plotly Express
+
+![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20212805.png)
+
+# GDP vs Tourism Receipts
+-Chart Name: Scatter Plot
+-Tool Used: Seaborn
+
+![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20220423.png)
+
+# Global Tourism Receipts Over Time
+-Chart Name: Line Chart
+-Tool Used: Matplotlib
+
+![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20220133.png)
 
 ##  Future Improvements
 
