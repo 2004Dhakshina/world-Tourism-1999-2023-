@@ -109,16 +109,6 @@ The project includes:
 - Python Programming
 
 
-##  Project Preview
-
-```
-
-images/"D:\data analytic\projects\Ml\tourism\project image\Screenshot 2025-10-30 212805.png"
-images/"D:\data analytic\projects\Ml\tourism\project image\Screenshot 2025-10-30 215053.png"
-images/"D:\data analytic\projects\Ml\tourism\project image\Screenshot 2025-10-30 215329.png"
-images/"D:\data analytic\projects\Ml\tourism\project image\Screenshot 2025-10-30 220423.png"
-```
-
 
 ##  Future Improvements
 
