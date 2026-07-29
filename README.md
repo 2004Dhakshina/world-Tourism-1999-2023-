@@ -17,7 +17,6 @@ The analysis highlights tourism growth patterns, country-wise performance, econo
 - Explore relationships between tourism and economic indicators.
 - Create informative visualizations for data-driven insights.
 
----
 
 ## Dataset
 
@@ -34,7 +33,6 @@ The analysis highlights tourism growth patterns, country-wise performance, econo
 - Average Receipts per Tourist
 - Country Code (ISO Alpha-3)
 
----
 
 ##  Tools & Technologies
 
@@ -46,7 +44,6 @@ The analysis highlights tourism growth patterns, country-wise performance, econo
 - Seaborn
 - Plotly Express
 
----
 
 ## Data Preparation
 
@@ -110,16 +107,20 @@ The project includes:
 
 ##  Project Preview
 # Correlation Heatmap of Key Tourism and Economic Indicators
--Chart Type: Correlation Heatmap
- -Tool Used: Seaborn
+- Chart Type: Correlation Heatmap
+- Tool Used: Seaborn
 ![
 ](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20212228.png)
 
+----
+
 # Top 10 Country Groups by Tourist Arrivals (1999)
--Chart Type: Horizontal Bar Chart
--Tool Used: Plotly Express
+- Chart Type: Horizontal Bar Chart
+- Tool Used: Plotly Express
 
 ![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20212805.png)
+
+---- 
 
 # GDP vs Tourism Receipts
 -Chart Name: Scatter Plot
@@ -127,9 +128,11 @@ The project includes:
 
 ![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20220423.png)
 
+-----
+
 # Global Tourism Receipts Over Time
--Chart Name: Line Chart
--Tool Used: Matplotlib
+- Chart Name: Line Chart
+- Tool Used: Matplotlib
 
 ![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20220133.png)
 
