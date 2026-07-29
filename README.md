@@ -6,7 +6,7 @@ This project analyzes **25 years (1999–2023)** of global tourism data to uncov
 
 The analysis highlights tourism growth patterns, country-wise performance, economic dependency on tourism, and the effects of global events such as the COVID-19 pandemic.
 
----
+
 
 ##  Objectives
 
@@ -123,8 +123,8 @@ The project includes:
 ---- 
 
 # GDP vs Tourism Receipts
--Chart Name: Scatter Plot
--Tool Used: Seaborn
+- Chart Name: Scatter Plot
+- Tool Used: Seaborn
 
 ![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20220423.png)
 
