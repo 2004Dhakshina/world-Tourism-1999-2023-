@@ -111,14 +111,12 @@ The project includes:
 
 ##  Project Preview
 
-> Add screenshots of your visualizations or notebook outputs here.
-
-Example:
-
 ```
-images/dashboard.png
-images/heatmap.png
-images/choropleth.png
+
+images/"D:\data analytic\projects\Ml\tourism\project image\Screenshot 2025-10-30 212805.png"
+images/"D:\data analytic\projects\Ml\tourism\project image\Screenshot 2025-10-30 215053.png"
+images/"D:\data analytic\projects\Ml\tourism\project image\Screenshot 2025-10-30 215329.png"
+images/"D:\data analytic\projects\Ml\tourism\project image\Screenshot 2025-10-30 220423.png"
 ```
 
 
