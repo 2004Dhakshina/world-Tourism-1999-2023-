@@ -1,4 +1,4 @@
-# 🌍 World Tourism Data Analysis (1999–2023)
+#  World Tourism Data Analysis (1999–2023)
 
 ## 📌 Project Overview
 
@@ -8,7 +8,7 @@ The analysis highlights tourism growth patterns, country-wise performance, econo
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze global tourism trends from 1999 to 2023.
 - Compare tourism receipts and tourist arrivals across countries.
@@ -19,7 +19,7 @@ The analysis highlights tourism growth patterns, country-wise performance, econo
 
 ---
 
-## 📂 Dataset
+## 📂Dataset
 
 **Dataset:** World Tourism Dataset (1999–2023)
 
@@ -36,7 +36,7 @@ The analysis highlights tourism growth patterns, country-wise performance, econo
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Jupyter Notebook
@@ -48,7 +48,7 @@ The analysis highlights tourism growth patterns, country-wise performance, econo
 
 ---
 
-## 🔧 Data Preparation
+## Data Preparation
 
 The dataset was prepared through the following steps:
 
@@ -61,7 +61,7 @@ The dataset was prepared through the following steps:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 The project includes:
 
@@ -76,20 +76,20 @@ The project includes:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
-- 📊 Top 10 Countries by Tourism Receipts per Tourist
-- 🌍 Interactive Choropleth Map
-- 📉 Global Tourism Receipts Over Time
-- 📈 GDP vs Tourism Receipts Scatter Plot
-- 📊 Tourism Growth Rate by Country
-- 🔥 Correlation Heatmap
-- 📍 Tourist Arrivals Analysis
-- 📉 Distribution of Tourism Receipts
+-  Top 10 Countries by Tourism Receipts per Tourist
+-  Interactive Choropleth Map
+-  Global Tourism Receipts Over Time
+-  GDP vs Tourism Receipts Scatter Plot
+-  Tourism Growth Rate by Country
+-  Correlation Heatmap
+-  Tourist Arrivals Analysis
+-  Distribution of Tourism Receipts
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - Countries such as Qatar, Luxembourg, and Switzerland generate high tourism revenue per visitor.
 - Island economies like Maldives and Seychelles depend heavily on tourism for GDP.
@@ -97,36 +97,8 @@ The project includes:
 - Tourism receipts generally increase with tourist arrivals, although economic impact varies across countries.
 - High-income countries maintain strong tourism revenue through premium tourism experiences.
 
----
 
-## 📁 Project Structure
-
-```
-World-Tourism-Data-Analysis/
-│
-├── Dataset/
-│   └── World_Tourism_1999_2023.csv
-│
-├── Notebook/
-│   └── World_Tourism_Analysis.ipynb
-│
-├── Images/
-│   ├── Choropleth_Map.png
-│   ├── Heatmap.png
-│   ├── Line_Chart.png
-│   └── Scatter_Plot.png
-│
-├── Report/
-│   └── World_Tourism_Project_Report.pdf
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
-
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Wrangling
@@ -140,7 +112,7 @@ World-Tourism-Data-Analysis/
 
 ---
 
-## 📷 Project Preview
+##  Project Preview
 
 > Add screenshots of your visualizations or notebook outputs here.
 
@@ -154,23 +126,9 @@ images/choropleth.png
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Develop an interactive dashboard using Power BI or Tableau.
 - Integrate live tourism datasets through APIs.
 - Apply machine learning models to forecast tourism trends.
 - Build a web-based dashboard using Streamlit.
-
----
-
-## 📬 Contact
-
-**Dhakshinamoorthy M**
-
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/2004Dhakshina
-
----
-
-⭐ If you found this project helpful, consider giving it a star!
