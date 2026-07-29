@@ -19,7 +19,7 @@ The analysis highlights tourism growth patterns, country-wise performance, econo
 
 ---
 
-## 📂Dataset
+## Dataset
 
 **Dataset:** World Tourism Dataset (1999–2023)
 
@@ -59,7 +59,7 @@ The dataset was prepared through the following steps:
 - Created derived metrics
 - Performed data validation
 
----
+
 
 ##  Exploratory Data Analysis (EDA)
 
@@ -74,7 +74,6 @@ The project includes:
 - Tourism Growth Rate Analysis
 - Distribution Analysis using KDE plots
 
----
 
 ##  Visualizations
 
@@ -87,7 +86,6 @@ The project includes:
 -  Tourist Arrivals Analysis
 -  Distribution of Tourism Receipts
 
----
 
 ##  Key Insights
 
@@ -110,7 +108,6 @@ The project includes:
 - Business Insight Generation
 - Python Programming
 
----
 
 ##  Project Preview
 
@@ -124,7 +121,6 @@ images/heatmap.png
 images/choropleth.png
 ```
 
----
 
 ##  Future Improvements
 
