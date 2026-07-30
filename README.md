@@ -110,7 +110,7 @@ The project includes:
 - Chart Type: Correlation Heatmap
 - Tool Used: Seaborn
 ![
-](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20212228.png)
+](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/correlation-heatmap.png)
 
 ----
 
@@ -118,7 +118,7 @@ The project includes:
 - Chart Type: Horizontal Bar Chart
 - Tool Used: Plotly Express
 
-![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20212805.png)
+![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/barchart.png)
 
 ---- 
 
@@ -126,7 +126,7 @@ The project includes:
 - Chart Name: Scatter Plot
 - Tool Used: Seaborn
 
-![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20220423.png)
+![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/scatter-plot.png)
 
 -----
 
@@ -134,7 +134,7 @@ The project includes:
 - Chart Name: Line Chart
 - Tool Used: Matplotlib
 
-![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/Screenshot%202025-10-30%20220133.png)
+![](https://github.com/2004Dhakshina/world-Tourism-1999-2023-/blob/main/line-chart.png)
 
 ##  Future Improvements
 
